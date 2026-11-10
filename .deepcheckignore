@@ -1,0 +1,3 @@
+# DeepCheck's own scanner fixtures intentionally contain vulnerable code samples.
+tests/**
+electron/rules.cjs
